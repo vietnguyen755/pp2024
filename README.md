@@ -10,5 +10,5 @@ Student Info
 =========================
 
 * Student Name: Kieu Quoc Viet 
-* Student ID: Yes, I'm-Vietnamese
+* Student ID: BI6-153
 
