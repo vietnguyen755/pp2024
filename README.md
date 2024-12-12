@@ -9,5 +9,5 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Kieu Quoc Viet 
-* Student ID: No
+* Student Name: Nguyễn Quốc Việt
+* Student ID: 23BI14451
